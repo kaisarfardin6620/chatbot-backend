@@ -22,6 +22,7 @@ The architecture is streamlined for the specific task of creating a support tick
 ### 2. Installation
 Clone the repository and install the required dependencies:
 ```bash
-git clone <your_repo_url>
+[git clone <your_repo_url>](https://github.com/kaisarfardin6620/chatbot-backend.git)
 cd chatbot-backend
+
 pip install -r requirements.txt
